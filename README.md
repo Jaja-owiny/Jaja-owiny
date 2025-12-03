@@ -55,7 +55,7 @@ I specialize in <strong>modern UI, robust backend systems, and scalable web appl
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="170" src="[https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&count_private=true](https://github.com/Jaja-owiny/Iyamosa_Empire/issues/1#issue-3691817928)" />
+  <img height="170" src="https://github.com/Jaja-owiny/Iyamosa_Empire/issues/1#issue-3691817928" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
 </p>
 
