@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Your+Name+👋;Full-Stack+Web+Developer;HTML+•+CSS+•+JS+•+React+•+Python+•+Flask+•+Django;Creating+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Jason+Ocholla+👋;Full-Stack+Web+Developer;HTML+•+CSS+•+JS+•+React+•+Python+•+Flask+•+Django;Creating+Modern+Web+Experiences" />
 </h1>
 
 <br/>
