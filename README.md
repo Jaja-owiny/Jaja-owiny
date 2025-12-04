@@ -102,7 +102,7 @@ I specialize in <strong>modern UI, robust backend systems, and scalable web appl
 ## 🌈 Smooth Scroll Visual Section
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks+for+Visiting!&fontSize=45&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks+for+Visiting!&fontSize=45&animation=twinkling" width="100%"  />
 </div>
 
 ---
