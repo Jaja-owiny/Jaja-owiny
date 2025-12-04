@@ -57,13 +57,10 @@ I specialize in <strong>modern UI, robust backend systems, and scalable web appl
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="170" src="https://github.com/Jaja-owiny/Images_kit/blob/main/Ironpath_logo.jpg" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
 </p>
+
+<>
 
 ---
 
@@ -95,6 +92,22 @@ I specialize in <strong>modern UI, robust backend systems, and scalable web appl
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
+
+---
+
+<!-- STATISTICS -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Jaja-owiny">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaja-owiny&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaja-owiny&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaja-owiny&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaja-owiny&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaja-owiny&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Jaja-owiny&theme=default"/>
 
 ---
 
