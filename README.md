@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Jason+Ocholla+👋;Full-Stack+Web+Developer;HTML+•+CSS+•+JS+•+React+•+Python+•+Flask+•+Django;Creating+Modern+Web+Experiences" />
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaja-owiny&label=Profile%20views&color=0e75b6&style=flat" alt="Jaja-owiny" /> </p>
+
 <br/>
 
 <!-- SOCIALS -->
@@ -16,6 +16,7 @@
 ---
 
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaja-owiny&label=Profile%20views&color=0e75b6&style=flat" alt="Jaja-owiny" /> </p>
 
 <!-- ABOUT SECTION -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> **About Me**
