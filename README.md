@@ -13,7 +13,7 @@
   <a href="#"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaja-owiny&label=Profile%20views&color=0e75b6&style=flat" alt="Jaja-owiny" /> </p>
@@ -51,7 +51,7 @@ I specialize in <strong>modern UI, robust backend systems, and scalable web appl
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- PROJECTS SHOWCASE -->
 ## 🚀 Featured Projects
@@ -80,10 +80,11 @@ I specialize in <strong>modern UI, robust backend systems, and scalable web appl
 <!-- STATISTICS -->
 ## 📊 GitHub Stats & Activity
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaja-owiny&theme=tokyonight" />
 </p>
 
 <div align="center">
@@ -94,14 +95,13 @@ I specialize in <strong>modern UI, robust backend systems, and scalable web appl
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaja-owiny&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaja-owiny&theme=2077" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+
+<h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Jaja-owiny&theme=default"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- SCROLL EFFECT SECTION (FAUX PARALLAX) -->
-## 🌈 Smooth Scroll Visual Section
-
+<!-- EXIT SECTION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks+for+Visiting!&fontSize=45&animation=twinkling" width="100%"  />
 </div>
