@@ -53,17 +53,6 @@ I specialize in <strong>modern UI, robust backend systems, and scalable web appl
 
 ---
 
-<!-- ANIMATED STATS -->
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
-</p>
-
-<>
-
----
-
 <!-- PROJECTS SHOWCASE -->
 ## 🚀 Featured Projects
 
@@ -88,16 +77,15 @@ I specialize in <strong>modern UI, robust backend systems, and scalable web appl
 
 ---
 
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
-
----
-
 <!-- STATISTICS -->
+## 📊 GitHub Stats & Activity
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+</p>
+
 <div align="center">
 <a href="https://github.com/Jaja-owiny">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaja-owiny&theme=2077" height="180em" />
