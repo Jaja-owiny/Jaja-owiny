@@ -104,8 +104,6 @@ I specialize in <strong>modern UI, robust backend systems, and scalable web appl
 <!-- PACMAN -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaja-owiny/Jaja-owiny/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaja-owiny/Jaja-owiny/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jaja-owiny/Jaja-owiny/output/pacman-contribution-graph.svg">
 </picture>
 
