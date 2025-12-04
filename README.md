@@ -101,13 +101,6 @@ I specialize in <strong>modern UI, robust backend systems, and scalable web appl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- EXIT SECTION -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks+for+Visiting!&fontSize=45&animation=twinkling" width="100%"  />
-</div>
-
----
-
 <!-- CONTACT -->
 ## 📫 Contact Me  
 <p align="center">
@@ -115,3 +108,10 @@ I specialize in <strong>modern UI, robust backend systems, and scalable web appl
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
+
+<!-- EXIT SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks+for+Visiting!&fontSize=45&animation=twinkling" width="100%"  />
+</div>
+
+---
