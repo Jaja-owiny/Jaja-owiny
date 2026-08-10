@@ -274,7 +274,7 @@ MISSION    : Deploy intelligent agents that reason, plan and execute tasks
 <a href="https://jaja-owiny.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/🌐_PORTFOLIO-jaja--owiny.github.io-00FF41?style=for-the-badge&labelColor=000000" />
 </a>
-<a href="mailto:your@email.com">
+<a href="mailto:jasonowiny20@email.com">
   <img src="https://img.shields.io/badge/📧_EMAIL-SECURE_CHANNEL-00FF41?style=for-the-badge&logo=protonmail&logoColor=00FF41&labelColor=000000" />
 </a>
 <a href="https://linkedin.com/in/your-linkedin">
@@ -330,7 +330,7 @@ Then: **Settings → Actions → General → Allow all actions** ✓
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=120&section=footer&text=root%40matrix%3A%20session%20terminated&fontSize=18&fontColor=00FF41&animation=twinkling&stroke=00FF41&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks+for+Visiting!&fontSize=45&animation=twinkling" width="100%"  />
 </div>
 
 <!-- EOF -->
