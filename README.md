@@ -292,22 +292,23 @@ MISSION    : Deploy intelligent agents that reason, plan and execute tasks
 <details>
 <summary><code>[⚙] SETUP: SNAKE GITHUB ACTION — click to expand</code></summary>
 <br/>
-
 To activate the snake contribution graph, create this file in your profile repo:
-
+ 
 **`.github/workflows/snake.yml`**
-
+ 
 ```yaml
 name: Generate Snake Animation
-
+ 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-
+ 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
@@ -315,17 +316,17 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00FF41&color_dots=#003300,#005500,#007700,#009900,#00CC33
-
-      - uses: crazy-max/ghaction-github-pages@v3
+ 
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          force_orphan: true
 ```
-
+ 
 Then: **Settings → Actions → General → Allow all actions** ✓
-
+ 
 </details>
 
 <!-- FOOTER -->
